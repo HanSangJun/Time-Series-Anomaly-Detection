@@ -6,7 +6,7 @@
 2. 비정상을 판단하는 통계적 threshold 값 설정
 3. 설정한 threshold 값으로부터 비정상 추정
 
-참조: S. Yin et al., A comparison study of basic data-driven fault diagnosis and process monitoring methods on the benchmark Tennessee Eastman Process, J. Process Control, 2012
+<strong>참조:</strong> <em>S. Yin et al., A comparison study of basic data-driven fault diagnosis and process monitoring methods on the benchmark Tennessee Eastman Process, J. Process Control, 2012</em>
 
 ## Dataset
 
