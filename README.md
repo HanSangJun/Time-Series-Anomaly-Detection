@@ -25,11 +25,5 @@
 
 ## Authors
 
-* 한상준 선임연구원 (sjun.han@lgsp.co.kr)
+* 한상준 (hjun1008@gmail.com)
 * Last update: 2020-03-30
-
-
-## Acknowledgments
-
-* 임우형 연구위원 (w.lim@lgsp.co.kr)
-* 조혜승 선임연구원 (hyeseung.cho@lgsp.co.kr)
